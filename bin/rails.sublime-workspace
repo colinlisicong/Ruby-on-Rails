@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fin",
+				"find_missing_letter"
+			],
+			[
+				"wor",
+				"words"
+			],
+			[
+				"ha",
+				"hash_1"
+			],
+			[
+				"has",
+				"hash_2"
+			],
+			[
+				"h",
+				"hash_1"
+			],
+			[
+				"hash",
+				"hash_1"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"word",
+				"word_frequency"
+			],
+			[
+				"cal",
+				"calculate_word_frequency"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"hi",
+				"highest_count_words_across_lines"
+			],
+			[
+				"lin",
+				"line_number"
+			],
+			[
+				"hig",
+				"highest_wf_words"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"un",
+				"until\tuntil ... end"
+			],
+			[
+				"fr",
+				"friends"
+			],
+			[
+				"fri",
+				"friends"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"ree",
+				"reverse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"restart unity-panel-service"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lisicong/Documents/ruby/work_place/ruby_test/find_the_missing_letter.rb",
+		"/home/lisicong/Documents/ruby/work_place/ruby_test/anagrams.rb",
+		"/home/lisicong/Documents/ruby/work_place/ruby_test/basic.rb",
+		"/home/lisicong/Documents/ruby/work_place/test.rb",
+		"/home/lisicong/Documents/ruby/workspace/hello_app/Gemfile",
+		"/home/lisicong/Documents/ruby/workspace/hello_app/Gemfile.lock",
+		"/tmp/bundler20180111-13663-4awd0ksqlite3-1.3.13/extensions/x86_64-linux/2.3.0/sqlite3-1.3.13/gem_make.out",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/assignment-Calc-Max-Word-Freq/README.md",
+		"/tmp/bundler20180111-13663-4awd0ksqlite3-1.3.13/extensions/x86_64-linux/2.3.0/sqlite3-1.3.13/mkmf.log",
+		"/home/lisicong/Documents/ruby/work_place/README",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/student-start/solution.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/assignment-Calc-Max-Word-Freq/test.txt",
+		"/home/lisicong/Documents/ruby/CodeWars/test.rb",
+		"/home/lisicong/Documents/ruby/CodeWars/Array_diff.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/README.md",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/student-start/spec/lesson3_spec.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/student-start/spec/solution_spec.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/solution/module2_lesson3_formative.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/student-start/spec/spec_helper.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Slides/Lecture10.pdf",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson02-Assignment01-Collections/README.md",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson02-Assignment01-Collections/student-start/module2_lesson2_formative.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/README.md",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start/module2_lesson1_formative.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start/spec/lesson1_spec.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start/spec/spec_helper.rb",
+		"/home/lisicong/Documents/ruby/work_place/courses/fullstack-course1-module2/Lecture03-Functions-Methods/expressive.rb",
+		"/home/lisicong/Documents/ruby/workplace/test.rb",
+		"/home/lisicong/Documents/ruby/workplace/helloworld.rb"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rails.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
